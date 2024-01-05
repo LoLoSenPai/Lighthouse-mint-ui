@@ -1,20 +1,20 @@
 {
-    "name":"My Project",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu aliquet ultricies, urna elit aliquam nunc, quis aliquet nunc nisl quis nisl.",
+    "name":"The Cans",
+    "description":"Description of my Can project",
     "website":"",
     "twitter":"",
     "discord":"",
-    "rpc":"",
+    "rpc":"https://sei-testnet-2-rpc.brocha.in",
     "network":"atlantic-2", 
-    "collection_address":"", 
+    "collection_address":"sei1k0032x4pcexdtdfcsnflt5c278j0cfzhu79848qnx6ypx6te357qj8yny7", 
     "nft_name_type": "default",
     "groups":[
         {
             "name":"whitelist",
             "allowlist":[
-                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d",
-                "sei1t22vwusjlxg4vp7gttsx7n2y9u4k0vv9lpk2ge"
-            ] 
+                "sei1lldrj4tal08nxkvvrryjaq3atlrwr6n0r2attt",
+                "sei14v72v7hgzuvgck6v6jsgjacxnt34gj06qnx53d"
+              ]
         },
         {
             "name":"public"

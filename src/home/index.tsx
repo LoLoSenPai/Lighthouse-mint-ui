@@ -242,7 +242,7 @@ const Home = () => {
     }
 
     const switchPhase = (phase: any) => {
-        if (!phase.noend && new Date(phase.end_time) < new Date() || phase.name === currentPhase.name)
+        if ((!phase.noend && new Date(phase.end_time) < new Date()) || phase.name === currentPhase.name)
             return;
 
         setCurrentPhase(phase)
